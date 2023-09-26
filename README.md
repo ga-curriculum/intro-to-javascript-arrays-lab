@@ -1,21 +1,23 @@
-# [tktk Module Name]
+# Intro to Javascript Arrays Lab
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Introduction
 
-tktk Introduce the lab. What will the students build in this lab?
+This lab provides an opportunity to practice defining, accessing and manipulating arrays.
 
 ## Lab content
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [tktk Starter code remove if no starter](#tktk-external-repo-link)
 - [tktk Solution code](#tktk-external-repo-link)
+
+Move to below to solution repo:
+[Solution Repl](https://replit.com/@jim_clark/JS-Arrays-Lab#script.js) 
 
 ## Time to complete
 
-tktk Estimated time to complete core lab exercise: 
+Estimated time to complete core lab exercise: **90 min**
 
 ## Additional content 
 

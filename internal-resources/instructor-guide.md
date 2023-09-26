@@ -1,4 +1,4 @@
-# [tktk Module Name] - Instructor Guide
+# Intro to Javascript Arrays Lab - Instructor Guide
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

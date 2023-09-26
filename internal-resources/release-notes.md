@@ -1,4 +1,4 @@
-# [tktk Module Name] - Release Notes
+# Intro to Javascript Arrays Lab - Release Notes
 
 ![Hero image](../assets/tktkhero-secondary.png)
 
