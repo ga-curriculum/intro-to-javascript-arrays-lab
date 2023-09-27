@@ -21,7 +21,7 @@ Lastly, the internet is filled with resources specific to JavaScript arrays. Web
 Happy coding!
 
 
-## Exercise
+## Lab Exercises
 
 Copy and paste each of the following exercises into your JavaScript file. To check your work, open the file in a web browser and inspect the console output, or run the file in your terminal using `node script.js`. 
 
@@ -61,13 +61,15 @@ Complete Exercise 2 in the space below:
 console.log('Exercise 2 Result:',  foods);
 ```
 
-**You know that `push()` and `pop()` are helpful methods for adding and removing items at the end of an array. But have you heard of  `shift()` and `unshift()`?**
+**We know that `push()` and `pop()` are helpful methods for adding and removing items at the end of an array, but have you heard of  `shift()` and `unshift()`?**
 
-The `shift` and `unshift` methods provide an easy way to manipulate elements at the beginning of an array. The unshift method adds one or more elements to the start of the array and returns the new length, while the shift method removes the first element from an array and returns that element. 
+The `shift` and `unshift` methods provide an easy way to manipulate elements at the beginning of an array. 
+The unshift method *adds* one or more elements to the start of the array and returns the new length, while the shift method *removes* the first element from an array and returns that element. 
 
 These methods are handy for scenarios where you need to quickly adjust the contents of an array without affecting elements at other positions.
 
 shift: [checkout the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+<br>
 unshift: [check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
 
 
@@ -86,7 +88,7 @@ Complete Exercise 3 in the space below:
 console.log('Exercise 3 Result:', foods);
 ```
 
-## Exercise 4: Access an Array Element
+### Exercise 4: Access an Array Element
 ```js
 /*
 Exercise 4: Access an Array Element
@@ -118,7 +120,7 @@ splice(start, deleteCount, item0, item1, /* …, */ itemN)
 This syntax may seem overwhelming at first glance, but it means that all but the first parameter is optional - so when we call splice(), its behavior will change depending on how many arguments we pass to it. Give it a try!
 
 
-## Exercise 5: Insert an Element in Between
+### Exercise 5: Insert an Element in Between
 ```js
 /*
 Exercise 5: Insert an Element in Between
@@ -250,7 +252,6 @@ console.log('Exercise 10 Result:', hasSoup);
 **Looping and Manipulating** 
 
 Several methods exist for iterating through arrays in JavaScript. 
-
 
 **For Loop**
 The traditional for loop can be used to iterate through an array by index.
