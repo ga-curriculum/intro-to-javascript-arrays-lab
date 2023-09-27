@@ -23,7 +23,7 @@ Happy coding!
 
 ## Exercise
 
-Copy and paste the following exercises into your JavaScript file. To check your work, open the file in a web browser and inspect the console output, or run the file in your terminal using `node script.js`. 
+Copy and paste each of the following exercises into your JavaScript file. To check your work, open the file in a web browser and inspect the console output, or run the file in your terminal using `node script.js`. 
 
 
 
