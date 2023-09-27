@@ -68,9 +68,9 @@ The unshift method *adds* one or more elements to the start of the array and ret
 
 These methods are handy for scenarios where you need to quickly adjust the contents of an array without affecting elements at other positions.
 
-shift: [checkout the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+shift: [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
 <br>
-unshift: [check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
+unshift: [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
 
 
 ### Exercise 3: Insert at the Beginning
@@ -109,13 +109,13 @@ console.log('Exercise 4 Result:', favFood);
 
 The `splice()` method is capable of **adding or removing** any number of elements inside an array. You can even take both actions simultaneously with a single line of code!
 
-If we [check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), we'll find the syntax to be:
+If we [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), we'll find the syntax to be:
 
-splice(start)
-splice(start, deleteCount)
-splice(start, deleteCount, item0)
-splice(start, deleteCount, item0, item1)
-splice(start, deleteCount, item0, item1, /* …, */ itemN)
+splice(start)<br>
+splice(start, deleteCount)<br>
+splice(start, deleteCount, item0)<br>
+splice(start, deleteCount, item0, item1)<br>
+splice(start, deleteCount, item0, item1, /* …, */ itemN)<br>
 
 This syntax may seem overwhelming at first glance, but it means that all but the first parameter is optional - so when we call splice(), its behavior will change depending on how many arguments we pass to it. Give it a try!
 
@@ -155,7 +155,7 @@ console.log('Exercise 6 Result:', foods);
 
 The `slice()` method is used to extract a portion of an array and create a new array without modifying the original.
 
-[checkout the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+[*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 
 ### Exercise 7: Using `slice` Method
 ```js
@@ -178,7 +178,7 @@ console.log('Exercise 7 Result:', yummy);
 
 The `indexOf()` method searches for a specified element within an array and returns the index of the first occurrence. If the element is not found, it returns -1.
 
-[check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+[*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 
 ### Exercise 8: Finding an Index
 ```js
@@ -201,7 +201,7 @@ console.log('Exercise 8 Result:', soyIdx);
 
 The `join()` method combines all the elements of an array into a single string, separated by a specified delimiter. 
 
-[check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+[*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 ### Exercise 9: Joining Elements
 ```js
@@ -227,7 +227,7 @@ console.log('Exercise 9 Result:', allFoods);
 
 The `includes()` method checks if an array contains a specific element, returning a boolean value (true or false). 
 
-[check out the docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+[*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
 
 ### Exercise 10: Check for Element
@@ -326,7 +326,7 @@ console.log('  fizzbuzz:', fizzbuzz);
 
 **Working with two dimensional arrays**
 
-A two-dimensional array is essentially an "array of arrays" in programming.
+A two-dimensional array is essentially an "array of arrays" in programming. Sometimes referred to as "nested" arrays. 
 
 ```js
 const twoDArray = [
@@ -380,9 +380,9 @@ Complete Exercise 14 in the space below:
 console.log('Exercise 14 Result:', num);
 ```
 
-**Looping though nested arrays**
+**Looping though Nested Arrays**
 
-To loop through a two-dimensional array, you'll typically use nested loops: one loop for the rows and another for the columns within each row.
+To loop through a two-dimensional array, you'll typically use nested loops: one loop for the **rows** and another for the **columns** within each row.
 
 
 ### Exercise 15: Nested Array Sum
