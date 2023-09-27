@@ -17,7 +17,7 @@ mkdir js-arrays-lab
 cd js-arrays-lab
 ```
 
-Then, create an **`script.js`** and an **`index.html`** file. These files will hold your work for this lecture:
+Then, create an **`script.js`** and an **`index.html`** file. These files will hold your work for this lab:
 
 ```bash
 touch script.js index.html
