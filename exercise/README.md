@@ -61,6 +61,8 @@ Complete Exercise 2 in the space below:
 console.log('Exercise 2 Result:',  foods);
 ```
 
+### Adding to the front of an Array
+
 **We know that `push()` and `pop()` are helpful methods for adding and removing items at the end of an array, but have you heard of  `shift()` and `unshift()`?**
 
 The `shift` and `unshift` methods provide an easy way to manipulate elements at the beginning of an array. 
@@ -105,7 +107,7 @@ Complete Exercise 4 in the space below:
 console.log('Exercise 4 Result:', favFood);
 ```
 
-**Adding and removing elements anywhere in an array**
+### Adding and removing elements anywhere in an array
 
 The `splice()` method is capable of **adding or removing** any number of elements inside an array. You can even take both actions simultaneously with a single line of code!
 
@@ -151,7 +153,7 @@ Complete Exercise 6 in the space below:
 console.log('Exercise 6 Result:', foods);
 ```
 
-**Copying parts of an array**
+### Copying parts of an array
 
 The `slice()` method is used to extract a portion of an array and create a new array without modifying the original.
 
@@ -174,7 +176,7 @@ Complete Exercise 7 in the space below:
 console.log('Exercise 7 Result:', yummy);
 ```
 
-**Searching for items within an array**
+### Searching for items within an array
 
 The `indexOf()` method searches for a specified element within an array and returns the index of the first occurrence. If the element is not found, it returns -1.
 
@@ -197,7 +199,7 @@ Complete Exercise 8 in the space below:
 console.log('Exercise 8 Result:', soyIdx);
 ```
 
-**Turning an entire array into a string**
+### Turning an entire array into a string
 
 The `join()` method combines all the elements of an array into a single string, separated by a specified delimiter. 
 
@@ -223,7 +225,7 @@ Complete Exercise 9 in the space below:
 console.log('Exercise 9 Result:', allFoods);
 ```
 
-**Checking for specific elements in an array**
+## Checking for specific elements in an array
 
 The `includes()` method checks if an array contains a specific element, returning a boolean value (true or false). 
 
@@ -249,7 +251,7 @@ console.log('Exercise 10 Result:', hasSoup);
 
 ## Let's take it up a notch
 
-**Looping and Manipulating** 
+### Looping and Manipulating
 
 Several methods exist for iterating through arrays in JavaScript. 
 
@@ -324,7 +326,7 @@ console.log('  buzz:', buzz);
 console.log('  fizzbuzz:', fizzbuzz);
 ```
 
-**Working with two dimensional arrays**
+### Working with two-dimensional arrays
 
 A two-dimensional array is essentially an "array of arrays" in programming. Sometimes referred to as "nested" arrays. 
 
@@ -337,7 +339,9 @@ const twoDArray = [
 ```
 
  - In a one-dimensional array, you access elements using a **single index**. 
- - In a two-dimensional array, you use **two indices**: one for the "row" and another for the "column." This creates a structure similar to a grid or a table.
+ - In a two-dimensional array, you use **two indices**: one for the "row" and another for the "column." 
+
+This creates a structure similar to a grid or a table.
 
 
 ### Exercise 13: Retrieve the Last Array
@@ -380,7 +384,7 @@ Complete Exercise 14 in the space below:
 console.log('Exercise 14 Result:', num);
 ```
 
-**Looping though Nested Arrays**
+### Looping though nested arrays
 
 To loop through a two-dimensional array, you'll typically use nested loops: one loop for the **rows** and another for the **columns** within each row.
 
