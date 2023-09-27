@@ -225,7 +225,7 @@ Complete Exercise 9 in the space below:
 console.log('Exercise 9 Result:', allFoods);
 ```
 
-## Checking for specific elements in an array
+### Checking for specific elements in an array
 
 The `includes()` method checks if an array contains a specific element, returning a boolean value (true or false). 
 
@@ -255,7 +255,7 @@ console.log('Exercise 10 Result:', hasSoup);
 
 Several methods exist for iterating through arrays in JavaScript. 
 
-**For Loop**
+#### For Loop
 The traditional for loop can be used to iterate through an array by index.
 
 ```js
@@ -264,7 +264,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-**For...of Loop**
+#### For...of Loop
 The for...of loop allows you to loop through the values of an array directly, without using an index.
 
 ```js
@@ -273,7 +273,7 @@ for (const element of arr) {
 }
 ```
 
-**forEach Method**
+#### forEach Method
 The forEach method performs a given function on each element of an array.
 
 ```js
