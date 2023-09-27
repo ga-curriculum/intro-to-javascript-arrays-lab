@@ -10,10 +10,8 @@ This lab provides an opportunity to practice defining, accessing and manipulatin
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [tktk Solution code](#tktk-external-repo-link)
+- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
 
-Move to below to solution repo:
-[Solution Repl](https://replit.com/@jim_clark/JS-Arrays-Lab#script.js) 
 
 ## Time to complete
 
