@@ -1,6 +1,7 @@
 # Intro to Javascript Arrays Lab
 
 ![Hero image](./assets/tktkhero-main.png)
+tktk Hunter - we need to replace this stock hero image with one that includes "Intro to JavaScript Arrays Lab"
 
 ## Introduction
 
@@ -11,7 +12,6 @@ This lab provides an opportunity to practice defining, accessing and manipulatin
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
 - [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
-
 
 ## Time to complete
 

@@ -1,11 +1,7 @@
 # Intro to Javascript Arrays Lab - Lab Exercise
 
-![Hero image](./assets/hero.png)
-
-<img src="https://i.imgur.com/sA6iEbw.jpg">
-
-# JavaScript Arrays Lab
-
+![Hero image](../assets/tktkhero-main.png)
+tktk Hunter - we need to replace this stock hero image with one that includes "Intro to JavaScript Arrays Lab - Lab exercise"
 ## Introduction
 
 This lab provides an opportunity to practice defining, accessing and manipulating arrays.
@@ -20,12 +16,9 @@ Lastly, the internet is filled with resources specific to JavaScript arrays. Web
 
 Happy coding!
 
-
 ## Lab Exercises
 
 Copy and paste each of the following exercises into your JavaScript file. To check your work, open the file in a web browser and inspect the console output, or run the file in your terminal using `node script.js`. 
-
-
 
 ### Exercise 1: Define an Empty Array
 
@@ -45,7 +38,6 @@ const foods = [];
 console.log('Exercise 1 Result:', foods);
 ```
 
-
 ### Exercise 2: Add Strings to the Array
 ```js
 /*
@@ -58,12 +50,12 @@ Complete Exercise 2 in the space below:
 
 
 
-console.log('Exercise 2 Result:',  foods);
+console.log('Exercise 2 Result:', foods);
 ```
 
 ### Adding to the front of an Array
 
-**We know that `push()` and `pop()` are helpful methods for adding and removing items at the end of an array, but have you heard of  `shift()` and `unshift()`?**
+**We know that `push()` and `pop()` are helpful methods for adding and removing items at the end of an array, but have you heard of `shift()` and `unshift()`?**
 
 The `shift` and `unshift` methods provide an easy way to manipulate elements at the beginning of an array. 
 The unshift method *adds* one or more elements to the start of the array and returns the new length, while the shift method *removes* the first element from an array and returns that element. 
@@ -73,7 +65,6 @@ These methods are handy for scenarios where you need to quickly adjust the conte
 shift: [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
 <br>
 unshift: [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
-
 
 ### Exercise 3: Insert at the Beginning
 ```js
@@ -113,14 +104,14 @@ The `splice()` method is capable of **adding or removing** any number of element
 
 If we [*read the docs*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), we'll find the syntax to be:
 
+```js
 splice(start)<br>
 splice(start, deleteCount)<br>
 splice(start, deleteCount, item0)<br>
 splice(start, deleteCount, item0, item1)<br>
 splice(start, deleteCount, item0, item1, /* …, */ itemN)<br>
-
-This syntax may seem overwhelming at first glance, but it means that all but the first parameter is optional - so when we call splice(), its behavior will change depending on how many arguments we pass to it. Give it a try!
-
+```
+This syntax may seem overwhelming at first glance, but it means that all but the first parameter is optional - so when we call `splice()`, its behavior will change depending on how many arguments we pass to it. Give it a try!
 
 ### Exercise 5: Insert an Element in Between
 ```js
@@ -136,7 +127,6 @@ Complete Exercise 5 in the space below:
 
 console.log('Exercise 5 Result:', foods);
 ```
-
 
 ### Exercise 6: Replace Elements
 ```js
@@ -284,12 +274,11 @@ arr.forEach(element => {
 
 Choose one to practice with for these next few exercises! 
 
-
 ### Exercise 11: Odd Numbers from Array
 ```js
 /*
 Exercise 11: Odd Numbers from Array
-  
+
 1) Chose a method iterate through the "nums" array and push each odd number to a new array named "odds".
 
 Hint: Initialize the odds variable to an empty array before the iteration.
@@ -338,11 +327,10 @@ const twoDArray = [
 ];
 ```
 
- - In a one-dimensional array, you access elements using a **single index**. 
- - In a two-dimensional array, you use **two indices**: one for the "row" and another for the "column." 
+- In a one-dimensional array, you access elements using a **single index**. 
+- In a two-dimensional array, you use **two indices**: one for the "row" and another for the "column." 
 
 This creates a structure similar to a grid or a table.
-
 
 ### Exercise 13: Retrieve the Last Array
 ```js
@@ -368,7 +356,6 @@ const numArrays = [
 console.log('Exercise 13 Result:', numList);
 ```
 
-
 ### Exercise 14: Accessing within Nested Arrays
 ```js
 /*
@@ -387,7 +374,6 @@ console.log('Exercise 14 Result:', num);
 ### Looping though nested arrays
 
 To loop through a two-dimensional array, you'll typically use nested loops: one loop for the **rows** and another for the **columns** within each row.
-
 
 ### Exercise 15: Nested Array Sum
 ```js
