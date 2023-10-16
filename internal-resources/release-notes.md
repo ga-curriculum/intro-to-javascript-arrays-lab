@@ -14,7 +14,9 @@ This release modularizes the legacy intro to javascript arrays lab and provides 
 
 **Changes**
 
-
+- Update content to be style guide compliant.
+- Update setup materials to use VS Code. Students should now copy exercises out of the exercise readme.
+- Update assets throughout.
 
 **Removals**
 
