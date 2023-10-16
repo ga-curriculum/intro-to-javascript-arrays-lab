@@ -1,7 +1,6 @@
 # Intro to Javascript Arrays Lab
 
 ![Hero image](./assets/tktkhero-main.png)
-tktk Hunter - we need to replace this stock hero image with one that includes "Intro to JavaScript Arrays Lab"
 
 ## Introduction
 

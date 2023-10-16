@@ -42,7 +42,9 @@ console.log('Exercise 1 result:', foods);
 /*
 Exercise 2: Add strings to the array
 
-1) Add 'pizza' and 'cheeseburger' to the `foods` array. 'pizza' should be the first item in the array, followed by 'cheeseburger'.
+1) Add 'pizza' and 'cheeseburger' to the `foods` array. 
+
+Note: 'pizza' should be the first item in the array, followed by 'cheeseburger'.
 
 Complete Exercise 2 in the space below:
 */
@@ -205,7 +207,7 @@ Exercise 9: Joining elements
 
 2) Assign the result to a variable called `allFoods`. 
 
-3) The final result should log as:
+Note: The final result should log as:
 'taco -> sushi -> cupcake -> tofu -> cheeseburger'
 
 Complete Exercise 9 in the space below:
@@ -417,7 +419,8 @@ console.log('Exercise 13 result:', numList);
 /*
 Exercise 14: Accessing within nested arrays
 
-1) Retrieve the number 66 from the `numArrays` array.
+1) Retrieve the number `66` from the `numArrays` array. As part of this process
+   do not alter the original `numArrays` array.
 
 2) Assign it to a variable called `num`.
 
