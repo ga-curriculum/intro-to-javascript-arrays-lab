@@ -1,6 +1,4 @@
-# Intro to Javascript Arrays Lab - Setup
-
-![Hero image](./assets/hero.png)
+# ![Intro to Javascript Arrays Lab - Setup](./assets/hero.png)
 
 ## Setup 
 
