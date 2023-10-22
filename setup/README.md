@@ -1,6 +1,6 @@
 # Intro to Javascript Arrays Lab - Setup
 
-![Hero image](../assets/tktkhero-main-subhead.png)
+![Hero image](./assets/hero.png)
 
 ## Setup 
 
