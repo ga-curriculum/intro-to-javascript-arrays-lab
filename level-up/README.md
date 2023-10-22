@@ -1,5 +1,3 @@
-# Intro to Javascript Arrays Lab - Level Up
-
-![Hero image](./assets/hero.png)
+# ![Intro to Javascript Arrays Lab - Level Up](./assets/hero.png)
 
 ***Nothing here yet.***

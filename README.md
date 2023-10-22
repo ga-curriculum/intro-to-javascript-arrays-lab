@@ -1,6 +1,4 @@
-# Intro to Javascript Arrays Lab
-
-![Hero image](./assets/tktkhero-main.png)
+# ![Intro to Javascript Arrays Lab](./assets/tktkhero-main.png)
 
 ## Introduction
 
