@@ -1,6 +1,4 @@
-# Intro to Javascript Arrays Lab - Instructor Guide
-
-![Hero image](../assets/hero.png)
+# ![Intro to Javascript Arrays Lab - Instructor Guide](../assets/hero.png)
 
 ***Nothing here yet.***
 
