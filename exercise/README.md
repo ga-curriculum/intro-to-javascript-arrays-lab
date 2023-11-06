@@ -1,4 +1,4 @@
-# ![Intro to Javascript Arrays Lab - Lab Exercise](./assets/hero.png)
+# ![Intro to Javascript Arrays Lab - Exercise](./assets/hero.png)
 
 ## Introduction
 
