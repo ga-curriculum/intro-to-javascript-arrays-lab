@@ -240,15 +240,13 @@ Complete Exercise 10 in the space below:
 console.log('Exercise 10 result:', hasSoup);
 ```
 
-## Let's take it up a notch
+## Looping and manipulating
 
 These last few exercises are more difficult. Don't forget to take breaks as you're working on these!
 
-### Looping and manipulating
-
 Several methods exist for iterating through arrays in JavaScript. 
 
-#### `for` loop
+### `for` loop
 
 The traditional `for` loop can iterate through an array by index.
 
@@ -258,7 +256,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-#### `for...of` loop
+### `for...of` loop
 
 The `for...of` loop allows you to loop through the values of an array directly without using an index.
 
@@ -268,7 +266,7 @@ for (const element of arr) {
 }
 ```
 
-#### `forEach()` method
+### `forEach()` method
 
 The `forEach()` method performs a given function on each element of an array.
 
