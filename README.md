@@ -1,23 +1,36 @@
-# ![Intro to Javascript Arrays Lab](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to JavaScript Arrays Lab</span>
+</h1>
 
 ## About
 
 This lab is designed for beginner to intermediate learners and focuses on providing hands-on practice with arrays in JavaScript. It aims to build a foundational understanding of this essential data type through a series of exercises and challenges. By the end of the lab, participants will be comfortable creating, manipulating, and iterating through arrays, setting a strong foundation for more advanced programming concepts. Ideal for learners new to arrays, this lab serves as both an introduction and a skill-building opportunity.
 
-## Time to complete
+## Content
+
+- [Setup](./setup/README.md)
+- [Exercise](./exercise/README.md)
+
+## Internal
+
+### Prerequisites
+
+- Intro to JavaScript Arrays
+
+### Time to complete
 
 Estimated time to complete core lab exercise: **90 min**
 
-## Lab
+### Solution code
 
-- [Setup](./setup/README.md)
-- [Lab exercise](./exercise/README.md)
-- [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
 
-
-## Internal resources
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
