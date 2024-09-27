@@ -9,5 +9,5 @@ This lab is designed for beginner to intermediate learners and focuses on provid
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup](../setup/README.md)
+- [Exercise](../exercise/README.md)
