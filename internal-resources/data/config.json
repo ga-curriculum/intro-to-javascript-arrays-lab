@@ -14,12 +14,6 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
@@ -58,12 +52,6 @@
       "name": "seb",
       "logoUrl": "",
       "microlessons": [
-        {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
-          "type": "Content",
-          "videoUrl": ""
-        },
         {
           "friendlyName": "Setup",
           "dirName": "setup",

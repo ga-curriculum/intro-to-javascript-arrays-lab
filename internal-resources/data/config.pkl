@@ -21,7 +21,6 @@ courses {
     name = "fallback"
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.levelUp
       mls.setup
       mls.exercise
     }
@@ -29,8 +28,6 @@ courses {
   new {
     name = "seb"
     microlessons {
-      // add microlessons here, in the order they should be delivered
-      mls.levelUp
       mls.setup
       mls.exercise
     }
