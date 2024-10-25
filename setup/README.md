@@ -3,7 +3,7 @@
   <span class="subhead">Setup</span>
 </h1>
 
-## Setup 
+## Setup
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 
@@ -11,25 +11,24 @@ Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 cd ~/code/ga/labs
 ```
 
-Navigate to [GitHub](https://github.com/) and create a new repository named **js-arrays-lab**.
+Navigate to [GitHub](https://github.com/) and create a new repository named **intro-to-javascript-arrays-lab**.
 
 - Make sure the repo is set to `public`
 - You do not need a `README.md`
 - You do not need a `.gitignore`
 
-
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/js-arrays-lab.git
+git clone https://github.com/<your-username>/intro-to-javascript-arrays-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-Next, `cd` into your new cloned directory, `js-arrays-lab`:
+Next, `cd` into your new cloned directory, `intro-to-javascript-arrays-lab`:
 
 ```bash
-cd js-arrays-lab
+cd intro-to-javascript-arrays-lab
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lab:
