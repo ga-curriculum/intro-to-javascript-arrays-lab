@@ -1,4 +1,7 @@
-# ![Intro to Javascript Arrays Lab - Exercise](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript Arrays Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
 ## Introduction
 
