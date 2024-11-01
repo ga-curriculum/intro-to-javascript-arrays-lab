@@ -26,6 +26,11 @@ Estimated time to complete core lab exercise: **90 min**
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
 
+### Github Pages Sites
+
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab/canvas-landing-pages/seb)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
