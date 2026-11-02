@@ -24,7 +24,7 @@ Estimated time to complete core lab exercise: **90 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/intro-to-javascript-arrays-lab-solution)
 
 ### Course landing pages
 
